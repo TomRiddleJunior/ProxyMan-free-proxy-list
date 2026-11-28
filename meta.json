@@ -1,0 +1,30 @@
+{
+  "schema": 3,
+  "generated_at": "2026-11-28T13:57:21.017801Z",
+  "counts": {
+    "total": 170,
+    "http": 70,
+    "socks4": 0,
+    "socks5": 100,
+    "elite": 169,
+    "anonymous": 1,
+    "ssl": 96,
+    "fast": 33,
+    "best": 13,
+    "verified": 170,
+    "premium": 32,
+    "residential": 97,
+    "datacenter": 73,
+    "unknown_hosting": 0,
+    "countries": 29
+  },
+  "avg_latency": 1.576,
+  "quality": {
+    "verified_ratio": 1.0,
+    "premium_ratio": 0.1882,
+    "previous_snapshot_total": 148,
+    "survival_rate": 0.8784,
+    "churn_rate": 0.1216,
+    "note": "verified = traffic was PROVEN to route through the proxy (public IP fetched through it, different from our own). premium = verified + stable streak + RTT <= 1s + TLS-capable. survival_rate = fraction of the previous run's list still alive this run; free lists churn fast by nature."
+  }
+}

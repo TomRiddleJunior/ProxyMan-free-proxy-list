@@ -1,0 +1,171 @@
+address,ip,port,protocol,anonymity,latency,ssl_supported,verified_exit,premium,country_code,country_name,hosting,as_name,org,target_ok,target_latency
+198.199.86.11:3128,198.199.86.11,3128,http,elite,0.15,True,True,True,US,United States,datacenter,"AS14061 DigitalOcean, LLC","DigitalOcean, LLC",False,0.0
+209.97.150.167:3128,209.97.150.167,3128,http,elite,0.151,True,True,True,US,United States,datacenter,"AS14061 DigitalOcean, LLC","DigitalOcean, LLC",False,0.0
+138.68.60.8:1080,138.68.60.8,1080,socks5,elite,0.164,True,True,True,US,United States,datacenter,"AS14061 DigitalOcean, LLC","DigitalOcean, LLC",False,0.0
+159.203.61.169:3128,159.203.61.169,3128,http,elite,0.189,True,True,True,CA,Canada,datacenter,"AS14061 DigitalOcean, LLC",Digital Ocean,False,0.0
+209.97.150.167:1080,209.97.150.167,1080,socks5,elite,0.294,True,True,True,US,United States,datacenter,"AS14061 DigitalOcean, LLC","DigitalOcean, LLC",False,0.0
+198.199.86.11:1080,198.199.86.11,1080,socks5,elite,0.304,True,True,True,US,United States,datacenter,"AS14061 DigitalOcean, LLC","DigitalOcean, LLC",False,0.0
+159.203.61.169:1080,159.203.61.169,1080,socks5,elite,0.34,True,True,True,CA,Canada,datacenter,"AS14061 DigitalOcean, LLC",Digital Ocean,False,0.0
+161.35.70.249:80,161.35.70.249,80,http,elite,0.394,True,True,True,DE,Germany,datacenter,"AS14061 DigitalOcean, LLC","DigitalOcean, LLC",False,0.0
+199.66.182.232:4145,199.66.182.232,4145,socks5,elite,0.513,True,True,True,US,United States,residential,AS20081 NET2ATLANTA.COM LLC,NET2ATLANTA.COM LLC,False,0.0
+199.66.182.243:4145,199.66.182.243,4145,socks5,elite,0.514,True,True,True,US,United States,residential,AS20081 NET2ATLANTA.COM LLC,NET2ATLANTA.COM LLC,False,0.0
+216.105.130.131:4145,216.105.130.131,4145,socks5,elite,0.53,True,True,True,US,United States,residential,AS20081 NET2ATLANTA.COM LLC,NET2ATLANTA.COM LLC,False,0.0
+216.105.128.144:4145,216.105.128.144,4145,socks5,elite,0.533,True,True,True,US,United States,residential,AS20081 NET2ATLANTA.COM LLC,NET2ATLANTA.COM LLC,False,0.0
+216.105.143.146:4145,216.105.143.146,4145,socks5,elite,0.539,True,True,True,US,United States,residential,AS20081 NET2ATLANTA.COM LLC,NET2ATLANTA.COM LLC,False,0.0
+128.199.202.122:8080,128.199.202.122,8080,http,elite,0.566,True,True,True,SG,Singapore,datacenter,"AS14061 DigitalOcean, LLC","DigitalOcean, LLC",False,0.0
+139.162.78.109:1080,139.162.78.109,1080,socks5,elite,0.57,True,True,True,JP,Japan,datacenter,AS63949 Akamai Connected Cloud,Linode,False,0.0
+20.235.56.94:8080,20.235.56.94,8080,http,elite,0.59,True,True,True,IN,India,datacenter,AS8075 Microsoft Corporation,Microsoft Azure Cloud (southindia),False,0.0
+47.251.166.203:1080,47.251.166.203,1080,socks5,elite,0.632,True,True,True,US,United States,datacenter,"AS45102 Alibaba (US) Technology Co., Ltd.",Alibaba Cloud - US,False,0.0
+134.209.29.120:1080,134.209.29.120,1080,socks5,elite,0.633,True,True,True,GB,United Kingdom,datacenter,"AS14061 DigitalOcean, LLC","DigitalOcean, LLC",False,0.0
+139.59.1.14:8080,139.59.1.14,8080,http,elite,0.668,True,True,True,IN,India,datacenter,"AS14061 DigitalOcean, LLC","DigitalOcean, LLC",False,0.0
+184.181.178.33:4145,184.181.178.33,4145,socks5,elite,0.67,True,True,True,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications,False,0.0
+174.64.199.82:4145,174.64.199.82,4145,socks5,elite,0.674,True,True,True,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications Inc.,False,0.0
+145.220.227.67:8080,145.220.227.67,8080,socks5,elite,0.675,True,True,True,NL,The Netherlands,residential,AS1101 IP-EEND BV,SURFnet bv,False,0.0
+43.108.84.178:1080,43.108.84.178,1080,socks5,elite,0.686,True,True,True,KR,South Korea,datacenter,"AS45102 Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,False,0.0
+161.35.70.249:1080,161.35.70.249,1080,socks5,elite,0.731,True,True,True,DE,Germany,datacenter,"AS14061 DigitalOcean, LLC","DigitalOcean, LLC",False,0.0
+116.202.108.111:3128,116.202.108.111,3128,http,elite,0.74,True,True,True,DE,Germany,datacenter,AS24940 Hetzner Online GmbH,Hetzner Online GmbH,False,0.0
+43.156.27.20:80,43.156.27.20,80,http,elite,0.78,True,True,True,SG,Singapore,datacenter,"AS132203 Tencent Building, Kejizhongyi Avenue",Tencent Cloud Computing,False,0.0
+116.203.139.209:8081,116.203.139.209,8081,http,elite,0.813,True,True,True,DE,Germany,datacenter,AS24940 Hetzner Online GmbH,Hetzner,False,0.0
+47.98.219.185:8999,47.98.219.185,8999,http,elite,0.848,True,True,True,CN,China,datacenter,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.","Aliyun Computing Co., LTD",False,0.0
+103.13.19.219:10808,103.13.19.219,10808,socks5,elite,0.878,True,True,True,JP,Japan,residential,AS39600 BUNNY TECHNOLOGY LLC,Bunny Technology LLC,False,0.0
+13.203.194.96:80,13.203.194.96,80,socks5,elite,0.886,True,True,True,IN,India,datacenter,"AS16509 Amazon.com, Inc.",AWS EC2 (ap-south-1),False,0.0
+128.199.202.122:1080,128.199.202.122,1080,socks5,elite,0.889,True,True,True,SG,Singapore,datacenter,"AS14061 DigitalOcean, LLC","DigitalOcean, LLC",False,0.0
+209.50.255.91:1080,209.50.255.91,1080,socks5,elite,0.934,True,True,True,US,United States,datacenter,"AS30633 Leaseweb USA, Inc.","Leaseweb USA, Inc",False,0.0
+138.68.60.8:8080,138.68.60.8,8080,http,elite,0.114,True,True,False,US,United States,datacenter,"AS14061 DigitalOcean, LLC","DigitalOcean, LLC",False,0.0
+34.43.46.91:80,34.43.46.91,80,http,elite,0.141,True,True,False,US,United States,datacenter,AS396982 Google LLC,Google LLC,False,0.0
+174.138.119.88:80,174.138.119.88,80,http,elite,0.161,False,True,False,US,United States,datacenter,"AS14061 DigitalOcean, LLC",Digital Ocean,False,0.0
+143.246.138.227:80,143.246.138.227,80,http,elite,0.161,False,True,False,US,United States,residential,AS213535 YottaSrc,YottaSrc,False,0.0
+45.91.248.107:80,45.91.248.107,80,http,elite,0.163,False,True,False,US,United States,residential,AS213535 YottaSrc,YottaSrc,False,0.0
+34.43.46.91:443,34.43.46.91,443,http,elite,0.17,True,True,False,US,United States,datacenter,AS396982 Google LLC,Google LLC,False,0.0
+64.188.29.191:8080,64.188.29.191,8080,http,elite,0.188,False,True,False,US,United States,residential,AS36352 HostPapa,Ipxo LLC,False,0.0
+12.50.107.221:80,12.50.107.221,80,http,elite,0.219,False,True,False,US,United States,residential,"AS7018 AT&T Enterprises, LLC",Loxahatchee - Tequesta,False,0.0
+50.210.166.34:80,50.210.166.34,80,http,elite,0.22,False,True,False,US,United States,residential,"AS7922 Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",False,0.0
+12.50.107.219:80,12.50.107.219,80,http,elite,0.221,False,True,False,US,United States,residential,"AS7018 AT&T Enterprises, LLC",Loxahatchee - Tequesta,False,0.0
+12.50.107.217:80,12.50.107.217,80,http,elite,0.224,False,True,False,US,United States,residential,"AS7018 AT&T Enterprises, LLC",Loxahatchee - Tequesta,False,0.0
+12.50.107.220:80,12.50.107.220,80,http,elite,0.226,False,True,False,US,United States,residential,"AS7018 AT&T Enterprises, LLC",Loxahatchee - Tequesta,False,0.0
+50.238.106.26:3128,50.238.106.26,3128,http,elite,0.239,True,True,False,US,United States,residential,"AS7922 Comcast Cable Communications, LLC","Comcast Cable Communications, LLC",False,0.0
+107.152.98.5:4145,107.152.98.5,4145,socks5,elite,0.265,False,True,False,US,United States,residential,AS46562 Performive LLC,Performive LLC,False,0.0
+104.37.135.145:4145,104.37.135.145,4145,socks5,elite,0.265,False,True,False,US,United States,residential,AS46562 Performive LLC,Performive LLC,False,0.0
+109.199.119.160:80,109.199.119.160,80,http,elite,0.304,False,True,False,FR,France,datacenter,AS51167 Contabo GmbH,Contabo GmbH,False,0.0
+134.209.29.120:3128,134.209.29.120,3128,http,elite,0.342,True,True,False,GB,United Kingdom,datacenter,"AS14061 DigitalOcean, LLC","DigitalOcean, LLC",False,0.0
+93.123.16.14:80,93.123.16.14,80,http,elite,0.367,False,True,False,BG,Bulgaria,residential,AS9028 OHOST GROUP LLC,Ohost LLC,False,0.0
+93.123.16.38:80,93.123.16.38,80,http,elite,0.37,False,True,False,BG,Bulgaria,residential,AS9028 OHOST GROUP LLC,Ohost LLC,False,0.0
+113.212.111.4:8090,113.212.111.4,8090,http,elite,0.408,False,True,False,BD,Bangladesh,residential,AS136224 City Online Ltd.,City Online Ltd.,False,0.0
+72.56.73.23:80,72.56.73.23,80,http,elite,0.438,False,True,False,NL,The Netherlands,residential,"AS210976 Timeweb, LLP","Timeweb, LLP",False,0.0
+37.187.74.125:80,37.187.74.125,80,http,elite,0.464,False,True,False,FR,France,datacenter,AS16276 OVH SAS,OVH SAS,False,0.0
+185.135.69.34:80,185.135.69.34,80,http,anonymous,0.468,False,True,False,IQ,Iraq,residential,AS205889 Giga Nineveh for internet services Ltd,Giganet Telecom,False,0.0
+46.35.9.110:80,46.35.9.110,80,http,elite,0.468,False,True,False,FR,France,residential,AS15557 Societe Francaise Du Radiotelephone - SFR SA,Business Internet,False,0.0
+80.74.54.148:3128,80.74.54.148,3128,http,elite,0.472,False,True,False,DE,Germany,residential,AS60294 Deutsche Glasfaser Wholesale GmbH,inexio Informationstechnologie und Telekommunikation Gmbh,False,0.0
+20.98.234.24:8080,20.98.234.24,8080,http,elite,0.511,True,True,False,US,United States,datacenter,AS8075 Microsoft Corporation,Microsoft Azure Cloud (eastus2),False,0.0
+184.170.248.5:4145,184.170.248.5,4145,socks5,elite,0.512,False,True,False,US,United States,residential,AS46562 Performive LLC,Performive LLC,False,0.0
+184.170.249.65:4145,184.170.249.65,4145,socks5,elite,0.513,False,True,False,US,United States,residential,AS46562 Performive LLC,Performive LLC,False,0.0
+195.114.209.50:80,195.114.209.50,80,http,elite,0.517,False,True,False,ES,Spain,residential,AS57286 GIGAS HOSTING S.A.,Gigas Hosting S.L.,False,0.0
+184.170.245.148:4145,184.170.245.148,4145,socks5,elite,0.519,False,True,False,US,United States,residential,AS46562 Performive LLC,Performive LLC,False,0.0
+184.170.251.30:11288,184.170.251.30,11288,socks5,elite,0.519,False,True,False,US,United States,residential,AS46562 Performive LLC,Performive LLC,False,0.0
+199.66.183.226:4145,199.66.183.226,4145,socks5,elite,0.519,True,True,False,US,United States,residential,AS20081 NET2ATLANTA.COM LLC,NET2ATLANTA.COM LLC,False,0.0
+139.162.78.109:80,139.162.78.109,80,http,elite,0.522,True,True,False,JP,Japan,datacenter,AS63949 Akamai Connected Cloud,Linode,False,0.0
+74.119.147.209:4145,74.119.147.209,4145,socks5,elite,0.523,False,True,False,US,United States,datacenter,AS46562 Performive LLC,ThePrimeHost - COLO@,False,0.0
+45.195.104.6:80,45.195.104.6,80,http,elite,0.524,False,True,False,CO,Colombia,residential,AS273020 IN QUALITY TELECOMUNICATIONS S.A.S. ZOMAC BIC,Inqtel SAS,False,0.0
+83.168.74.163:8080,83.168.74.163,8080,http,elite,0.534,False,True,False,PL,Poland,residential,AS35179 Korbank S. A.,Korbank,False,0.0
+199.66.183.251:4145,199.66.183.251,4145,socks5,elite,0.539,False,True,False,US,United States,residential,AS20081 NET2ATLANTA.COM LLC,NET2ATLANTA.COM LLC,False,0.0
+185.49.31.205:8080,185.49.31.205,8080,http,elite,0.55,False,True,False,PL,Poland,residential,AS35179 Korbank S. A.,Korbank S. A.,False,0.0
+34.140.137.151:80,34.140.137.151,80,http,elite,0.577,False,True,False,BE,Belgium,datacenter,AS396982 Google LLC,Google Cloud (europe-west1),False,0.0
+91.107.248.7:80,91.107.248.7,80,http,elite,0.594,False,True,False,DE,Germany,datacenter,AS24940 Hetzner Online GmbH,Hetzner Online AG,False,0.0
+188.191.165.159:8080,188.191.165.159,8080,http,elite,0.604,False,True,False,RU,Russia,residential,AS50577 Intelsc Ltd.,Intelsc Ltd,False,0.0
+178.140.3.161:5678,178.140.3.161,5678,http,elite,0.619,False,True,False,RU,Russia,residential,AS42610 OJSC National Cable Networks,NCNET,False,0.0
+91.202.185.69:80,91.202.185.69,80,http,elite,0.628,False,True,False,RU,Russia,residential,AS44715 Globalcom Ltd.,Globalcom Ltd,False,0.0
+176.106.241.50:80,176.106.241.50,80,http,elite,0.629,False,True,False,RU,Russia,residential,AS57712 NPF SOFTVIDEO Ltd.,SOFTVIDEO,False,0.0
+34.81.160.132:80,34.81.160.132,80,http,elite,0.641,False,True,False,TW,Taiwan,datacenter,AS396982 Google LLC,Google Cloud (asia-east1),False,0.0
+122.116.125.115:8888,122.116.125.115,8888,http,elite,0.655,False,True,False,TW,Taiwan,residential,AS3462 Data Communication Business Group,Chunghwa Telecom Co. Ltd.,False,0.0
+182.155.254.159:80,182.155.254.159,80,http,elite,0.672,False,True,False,TW,Taiwan,residential,AS17809 VEE TIME CORP.,e-MAX NETWORK CORP.,False,0.0
+47.84.84.1:3128,47.84.84.1,3128,http,elite,0.686,False,True,False,SG,Singapore,datacenter,"AS45102 Alibaba (US) Technology Co., Ltd.","Delta Centric LLC, Zenlayer Inc",False,0.0
+216.125.18.67:3128,216.125.18.67,3128,http,elite,0.695,True,True,False,US,United States,residential,AS6325 Illinois Century Network,Illinois Century Network,False,0.0
+43.161.205.36:80,43.161.205.36,80,http,elite,0.696,True,True,False,HK,Hong Kong,datacenter,"AS132203 Tencent Building, Kejizhongyi Avenue","Tencent Cloud Computing (Beijing) Co., Ltd",False,0.0
+72.207.33.64:4145,72.207.33.64,4145,socks5,elite,0.724,False,True,False,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications,False,0.0
+5.78.181.0:9052,5.78.181.0,9052,socks5,elite,0.739,True,True,False,US,United States,datacenter,AS212317 Hetzner Online GmbH,HETZNER-DC,False,0.0
+51.17.99.135:10801,51.17.99.135,10801,socks5,elite,0.744,True,True,False,IL,Israel,datacenter,"AS16509 Amazon.com, Inc.",AWS EC2 (il-central-1),False,0.0
+107.174.30.94:1080,107.174.30.94,1080,socks5,elite,0.745,False,True,False,US,United States,residential,AS27176 DataWagon LLC,HostPapa,False,0.0
+174.77.111.196:4145,174.77.111.196,4145,socks5,elite,0.753,False,True,False,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications,False,0.0
+109.194.34.246:8082,109.194.34.246,8082,http,elite,0.766,False,True,False,RU,Russia,residential,"AS56981 JSC ""ER-Telecom Holding""","JSC ""ER-Telecom Holding"" Tomsk Branch",False,0.0
+203.19.38.114:1080,203.19.38.114,1080,http,elite,0.767,False,True,False,CN,China,residential,AS23764 CTGNet,China Telecom Global networks,False,0.0
+184.178.172.13:15311,184.178.172.13,15311,socks5,elite,0.77,False,True,False,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications Inc.,False,0.0
+97.74.87.226:80,97.74.87.226,80,http,elite,0.774,False,True,False,SG,Singapore,datacenter,"AS26496 GoDaddy.com, LLC","GoDaddy.com, LLC",False,0.0
+184.178.172.18:15280,184.178.172.18,15280,socks5,elite,0.775,False,True,False,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications Inc.,False,0.0
+24.249.199.4:4145,24.249.199.4,4145,socks5,elite,0.776,False,True,False,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications,False,0.0
+174.64.199.79:4145,174.64.199.79,4145,socks5,elite,0.784,False,True,False,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications Inc.,False,0.0
+59.11.209.162:1080,59.11.209.162,1080,socks5,elite,0.785,True,True,False,KR,South Korea,residential,AS4766 Korea Telecom,Korea Telecom,False,0.0
+174.77.111.197:4145,174.77.111.197,4145,socks5,elite,0.788,False,True,False,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications,False,0.0
+8.218.48.35:8099,8.218.48.35,8099,socks5,elite,0.795,False,True,False,HK,Hong Kong,datacenter,"AS45102 Alibaba (US) Technology Co., Ltd.",Alibaba.com Singapore E-Commerce Private Limited,False,0.0
+174.77.111.198:49547,174.77.111.198,49547,socks5,elite,0.801,False,True,False,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications,False,0.0
+174.75.211.193:4145,174.75.211.193,4145,socks5,elite,0.807,False,True,False,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications,False,0.0
+118.31.2.38:8999,118.31.2.38,8999,http,elite,0.813,False,True,False,CN,China,datacenter,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.","Aliyun Computing Co., LTD",False,0.0
+72.207.109.5:4145,72.207.109.5,4145,socks5,elite,0.824,False,True,False,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications,False,0.0
+174.75.211.222:4145,174.75.211.222,4145,socks5,elite,0.845,False,True,False,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications,False,0.0
+158.101.152.7:7890,158.101.152.7,7890,socks5,elite,0.856,True,True,False,JP,Japan,datacenter,AS31898 Oracle Corporation,Oracle Cloud Infrastructure (ap-tokyo-1),False,0.0
+103.65.237.92:5678,103.65.237.92,5678,http,elite,0.862,False,True,False,ID,Indonesia,residential,AS135450 PT Berkah Solusi Teknologi Informasi,PT Berkah Solusi Teknologi Informasi,False,0.0
+47.251.249.48:7777,47.251.249.48,7777,socks5,elite,0.89,True,True,False,US,United States,datacenter,"AS45102 Alibaba (US) Technology Co., Ltd.",Alibaba Cloud - US,False,0.0
+2.237.63.228:80,2.237.63.228,80,http,elite,0.895,False,True,False,IT,Italy,residential,AS12874 Fastweb SpA,Fastweb L3 PAT NAT,False,0.0
+113.204.79.230:9091,113.204.79.230,9091,http,elite,0.941,False,True,False,CN,China,datacenter,AS4837 CHINA UNICOM China169 Backbone,huazhenggongXS com,False,0.0
+153.0.171.163:8085,153.0.171.163,8085,http,elite,0.958,False,True,False,CN,China,datacenter,AS4837 CHINA UNICOM China169 Backbone,China Unicom Hainan Province Network,False,0.0
+221.202.27.194:10807,221.202.27.194,10807,http,elite,0.975,True,True,False,CN,China,datacenter,AS4837 CHINA UNICOM China169 Backbone,CNC Group CHINA169 Liaoning Province Network,False,0.0
+103.51.223.133:8080,103.51.223.133,8080,http,elite,1.039,False,True,False,IN,India,residential,AS135852 Galaxynet Connections Private Limited,ASA Galaxy  Pvt. Ltd.,False,0.0
+24.249.199.12:4145,24.249.199.12,4145,socks5,elite,1.071,False,True,False,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications,False,0.0
+91.107.179.68:10809,91.107.179.68,10809,socks5,elite,1.078,True,True,False,DE,Germany,datacenter,AS24940 Hetzner Online GmbH,Hetzner Online AG,False,0.0
+101.36.104.46:10808,101.36.104.46,10808,socks5,elite,1.079,True,True,False,JP,Japan,residential,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,False,0.0
+13.233.172.115:42444,13.233.172.115,42444,socks5,elite,1.107,True,True,False,IN,India,datacenter,"AS16509 Amazon.com, Inc.",AWS EC2 (ap-south-1),False,0.0
+139.59.1.14:1080,139.59.1.14,1080,socks5,elite,1.125,True,True,False,IN,India,datacenter,"AS14061 DigitalOcean, LLC","DigitalOcean, LLC",False,0.0
+13.233.172.115:31968,13.233.172.115,31968,socks5,elite,1.129,True,True,False,IN,India,datacenter,"AS16509 Amazon.com, Inc.",AWS EC2 (ap-south-1),False,0.0
+184.182.240.211:4145,184.182.240.211,4145,socks5,elite,1.136,True,True,False,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications Inc.,False,0.0
+123.57.0.163:8888,123.57.0.163,8888,http,elite,1.137,False,True,False,CN,China,datacenter,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.","Aliyun Computing Co., LTD",False,0.0
+13.233.172.115:5423,13.233.172.115,5423,socks5,elite,1.139,True,True,False,IN,India,datacenter,"AS16509 Amazon.com, Inc.",AWS EC2 (ap-south-1),False,0.0
+208.102.51.6:58208,208.102.51.6,58208,socks5,elite,1.157,True,True,False,US,United States,residential,AS6181 Cincinnati Bell Telephone Company LLC,Fuse Internet Access - MH2+,False,0.0
+69.61.200.104:36181,69.61.200.104,36181,socks5,elite,1.163,True,True,False,US,United States,residential,AS6181 Cincinnati Bell Telephone Company LLC,Maximum Communications,False,0.0
+13.233.172.115:4496,13.233.172.115,4496,socks5,elite,1.169,True,True,False,IN,India,datacenter,"AS16509 Amazon.com, Inc.",AWS EC2 (ap-south-1),False,0.0
+47.245.165.201:1080,47.245.165.201,1080,socks5,elite,1.174,True,True,False,DE,Germany,datacenter,"AS45102 Alibaba (US) Technology Co., Ltd.",Alibaba.com LLC,False,0.0
+120.55.240.71:8647,120.55.240.71,8647,http,elite,1.179,False,True,False,CN,China,datacenter,"AS37963 Hangzhou Alibaba Advertising Co.,Ltd.","Aliyun Computing Co., LTD",False,0.0
+123.58.219.171:10808,123.58.219.171,10808,socks5,elite,1.207,True,True,False,HK,Hong Kong,residential,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology (hk) Limited,False,0.0
+178.92.72.205:1080,178.92.72.205,1080,socks5,elite,1.214,False,True,False,UA,Ukraine,residential,AS134926 Micro Hosting Private Limited,Company 67a6195eU7py3yyf,False,0.0
+18.222.231.188:27161,18.222.231.188,27161,socks5,elite,1.234,True,True,False,US,United States,datacenter,"AS16509 Amazon.com, Inc.",AWS EC2 (us-east-2),False,0.0
+184.182.240.12:4145,184.182.240.12,4145,socks5,elite,1.24,True,True,False,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications Inc.,False,0.0
+66.42.224.229:41679,66.42.224.229,41679,socks5,elite,1.24,True,True,False,US,United States,residential,AS6181 Cincinnati Bell Telephone Company LLC,Altafiber,False,0.0
+69.55.49.177:38182,69.55.49.177,38182,socks5,elite,1.297,True,True,False,US,United States,datacenter,"AS14061 DigitalOcean, LLC",Digital Ocean,False,0.0
+116.203.139.209:1080,116.203.139.209,1080,http,elite,1.327,True,True,False,DE,Germany,datacenter,AS24940 Hetzner Online GmbH,Hetzner,False,0.0
+216.68.128.121:4145,216.68.128.121,4145,socks5,elite,1.329,True,True,False,US,United States,residential,AS6181 Cincinnati Bell Telephone Company LLC,Fuse Internet Access,False,0.0
+88.198.69.51:1083,88.198.69.51,1083,socks5,elite,1.611,False,True,False,DE,Germany,datacenter,AS24940 Hetzner Online GmbH,Network Address for Servers,False,0.0
+39.109.113.97:4090,39.109.113.97,4090,http,elite,1.613,False,True,False,HK,Hong Kong,residential,AS142403 YISU CLOUD LTD,Yisu Cloud LTD,False,0.0
+52.56.143.248:3128,52.56.143.248,3128,socks5,elite,1.616,True,True,False,GB,United Kingdom,datacenter,"AS16509 Amazon.com, Inc.",AWS EC2 (eu-west-2),False,0.0
+184.185.2.12:4145,184.185.2.12,4145,socks5,elite,1.659,True,True,False,US,United States,residential,AS22773 Cox Communications Inc.,Cox Communications Inc.,False,0.0
+18.163.182.106:55345,18.163.182.106,55345,socks5,elite,1.661,True,True,False,HK,Hong Kong,datacenter,"AS16509 Amazon.com, Inc.",AWS EC2 (ap-east-1),False,0.0
+165.154.162.73:8888,165.154.162.73,8888,http,elite,1.738,False,True,False,US,United States,residential,AS135377 UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,Ucloud Information Technology,False,0.0
+72.49.49.11:31034,72.49.49.11,31034,socks5,elite,1.853,True,True,False,US,United States,residential,AS6181 Cincinnati Bell Telephone Company LLC,Fuse Internet Access - BRAS Norwood Region,False,0.0
+47.84.65.214:3128,47.84.65.214,3128,http,elite,1.898,False,True,False,SG,Singapore,datacenter,"AS45102 Alibaba (US) Technology Co., Ltd.",Alibaba Cloud LLC,False,0.0
+16.26.208.68:29978,16.26.208.68,29978,socks5,elite,1.999,True,True,False,AU,Australia,datacenter,"AS16509 Amazon.com, Inc.",AWS EC2 (ap-southeast-4),False,0.0
+221.202.27.194:10806,221.202.27.194,10806,socks5,elite,2.074,True,True,False,CN,China,datacenter,AS4837 CHINA UNICOM China169 Backbone,CNC Group CHINA169 Liaoning Province Network,False,0.0
+95.216.8.124:1085,95.216.8.124,1085,socks5,elite,2.151,True,True,False,FI,Finland,datacenter,AS24940 Hetzner Online GmbH,Hetzner Online GmbH,False,0.0
+183.106.215.208:1080,183.106.215.208,1080,socks5,elite,2.504,True,True,False,KR,South Korea,residential,AS4766 Korea Telecom,Kornet,False,0.0
+143.42.66.91:80,143.42.66.91,80,http,elite,2.882,False,True,False,SG,Singapore,datacenter,AS63949 Akamai Connected Cloud,Linode,False,0.0
+111.119.162.248:10934,111.119.162.248,10934,socks5,elite,2.883,True,True,False,PK,Pakistan,residential,AS132165 Connect Communications,WANGSU,False,0.0
+88.198.69.51:1087,88.198.69.51,1087,socks5,elite,2.957,True,True,False,DE,Germany,datacenter,AS24940 Hetzner Online GmbH,Network Address for Servers,False,0.0
+111.119.162.248:10944,111.119.162.248,10944,socks5,elite,2.959,True,True,False,PK,Pakistan,residential,AS132165 Connect Communications,WANGSU,False,0.0
+80.90.178.167:1081,80.90.178.167,1081,http,elite,3.214,True,True,False,RU,Russia,residential,"AS9123 JSC ""TIMEWEB""",Mamaev,False,0.0
+5.255.103.55:1080,5.255.103.55,1080,socks5,elite,3.3,True,True,False,NL,The Netherlands,residential,AS60404 Liteserver,TIG,False,0.0
+111.119.162.248:10912,111.119.162.248,10912,socks5,elite,3.307,True,True,False,PK,Pakistan,residential,AS132165 Connect Communications,WANGSU,False,0.0
+111.119.162.248:10927,111.119.162.248,10927,socks5,elite,3.552,True,True,False,PK,Pakistan,residential,AS132165 Connect Communications,WANGSU,False,0.0
+111.119.162.248:10958,111.119.162.248,10958,socks5,elite,3.669,True,True,False,PK,Pakistan,residential,AS132165 Connect Communications,WANGSU,False,0.0
+111.119.162.248:10935,111.119.162.248,10935,socks5,elite,3.752,True,True,False,PK,Pakistan,residential,AS132165 Connect Communications,WANGSU,False,0.0
+15.223.187.219:30337,15.223.187.219,30337,socks5,elite,3.884,True,True,False,CA,Canada,datacenter,"AS16509 Amazon.com, Inc.",AWS EC2 (ca-central-1),False,0.0
+15.217.214.40:12620,15.217.214.40,12620,socks5,elite,3.908,True,True,False,ES,Spain,datacenter,"AS16509 Amazon.com, Inc.",AWS EC2 (eu-south-2),False,0.0
+111.119.162.248:10947,111.119.162.248,10947,socks5,elite,3.941,True,True,False,PK,Pakistan,residential,AS132165 Connect Communications,WANGSU,False,0.0
+111.119.162.248:10923,111.119.162.248,10923,socks5,elite,4.238,True,True,False,PK,Pakistan,residential,AS132165 Connect Communications,WANGSU,False,0.0
+82.180.146.251:10800,82.180.146.251,10800,socks5,elite,4.405,False,True,False,IN,India,datacenter,AS141995 Contabo Asia Private Limited,Packethub S.A,False,0.0
+193.218.118.128:1080,193.218.118.128,1080,socks5,elite,4.654,True,True,False,FR,France,residential,AS207656 Epinatura LLC,Ukrainian Data Network,False,0.0
+111.119.162.248:10942,111.119.162.248,10942,socks5,elite,4.734,True,True,False,PK,Pakistan,residential,AS132165 Connect Communications,WANGSU,False,0.0
+111.119.162.248:10913,111.119.162.248,10913,socks5,elite,5.488,True,True,False,PK,Pakistan,residential,AS132165 Connect Communications,WANGSU,False,0.0
+111.119.162.248:10905,111.119.162.248,10905,socks5,elite,5.903,True,True,False,PK,Pakistan,residential,AS132165 Connect Communications,WANGSU,False,0.0
+171.25.158.95:1080,171.25.158.95,1080,socks5,elite,6.095,True,True,False,SE,Sweden,residential,AS35100 Patrik Lagerman,Kronnet,False,0.0
+111.119.162.248:10931,111.119.162.248,10931,socks5,elite,7.186,True,True,False,PK,Pakistan,residential,AS132165 Connect Communications,WANGSU,False,0.0
+111.119.162.248:10904,111.119.162.248,10904,socks5,elite,8.707,True,True,False,PK,Pakistan,residential,AS132165 Connect Communications,WANGSU,False,0.0
+111.119.162.248:10924,111.119.162.248,10924,socks5,elite,8.914,True,True,False,PK,Pakistan,residential,AS132165 Connect Communications,WANGSU,False,0.0
+113.249.111.67:1080,113.249.111.67,1080,socks5,elite,10.778,False,True,False,CN,China,residential,AS134420 Chongqing Telecom,Chinanet CQ,False,0.0
+111.119.162.248:10918,111.119.162.248,10918,socks5,elite,20.407,True,True,False,PK,Pakistan,residential,AS132165 Connect Communications,WANGSU,False,0.0
+80.65.211.149:8888,80.65.211.149,8888,socks5,elite,20.848,False,True,False,FR,France,datacenter,AS51167 Contabo GmbH,Contabo GmbH,False,0.0
